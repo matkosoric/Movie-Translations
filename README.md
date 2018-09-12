@@ -8,6 +8,8 @@ Comparing movie titles on English with Croatian translation
 Used dataset is a subset of official IMDB, available at:
 https://datasets.imdbws.com/
 
+Content and data structures are explained here:
+https://www.imdb.com/interfaces/
 
 ### Results
 
