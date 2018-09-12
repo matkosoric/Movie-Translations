@@ -10,6 +10,12 @@ https://datasets.imdbws.com/
 
 
 ### Results
+
+Output will be located in the untracked location /data/__default__/user/current/result/ as a standard part-00000... csv file.
+
+Example CSV is in /src/main/resources/output-example.csv
+
+Terminal output looks like this:
 <pre><code>
 +--------------------------------------------------------------------------+-------------------------------------------------------+--------+
 |titleHR                                                                   |title                                                  |numVotes|
